@@ -3,3 +3,6 @@ import math
 print(x) 
 x=20
 print(x)
+x=x/2
+
+
