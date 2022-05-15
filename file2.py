@@ -7,3 +7,5 @@ print(y)
 
 z=30
 print(z)
+
+w=3
