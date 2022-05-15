@@ -1,4 +1,8 @@
 import math
 x=20
 print(x)
-x= 30
+y = 20
+print(y)
+
+z=30
+print(z)
